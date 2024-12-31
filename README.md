@@ -1,6 +1,7 @@
 # Browntail Moth Infestation Analysis and Prediction
 
-## A nine-hour data marathons
+### 🏆 Award-Winning Project
+This nine-hour data marathon project **won an award for the Best Usage of Dataiku** for its innovative approach to analyzing and predicting Browntail Moth infestations.
 
 **By: Team Null (Baron Wang, Ziyan Zhang, Bishal Khadka, Yiheng Su)**
 
